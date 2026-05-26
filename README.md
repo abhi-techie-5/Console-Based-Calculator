@@ -124,7 +124,7 @@ This project helps beginners understand:
 
 ## Author
 
-Created by Abhishek
+Created by Abhishek Suman
 
 ## License
 
